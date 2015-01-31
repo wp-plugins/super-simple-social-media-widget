@@ -1,0 +1,27 @@
+.super-simple-social-media-widget {
+	margin: 0 !important;
+	padding: 0 !important;
+	list-style: none !important;
+	text-align: center !important;
+	border:0 !important;
+}
+
+.super-simple-social-media-widget li {
+	display: inline-block !important;
+	border:0 !important;
+}
+
+.super-simple-social-media-widget li a {
+	font-family: FontAwesome !important;
+	text-decoration: none !important;
+	font-weight: normal !important;
+	height: auto !important;
+	line-height: normal !important;
+	list-style-image: none !important;
+	list-style-position: outside !important;
+	list-style-type: none !important;
+	text-align: center !important;
+	text-shadow: none !important;
+	width: auto !important;
+	border:0 !important;
+}
